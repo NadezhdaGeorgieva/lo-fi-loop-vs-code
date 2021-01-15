@@ -1,0 +1,43 @@
+{
+    "name": "lo-fi-loop-theme",
+    "displayName": "Lo-Fi Loop Theme",
+    "description": "Relaxing dark theme.",
+    "version": "1.0.0",
+    "homepage": "https://github.com/NadezhdaGeorgieva/lo-fi-loop-vs-code#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NadezhdaGeorgieva/lo-fi-loop-vs-code.git"
+    },
+    "bugs": {
+        "url": "https://github.com/NadezhdaGeorgieva/lo-fi-loop-vs-code/issues"
+    },
+    "icon": "icon.png",
+    "publisher": "altcoda",
+    "author": {
+        "name": "altcoda"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lo-Fi Loop Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lo-Fi Loop Theme-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "blue",
+        "cyan",
+        "red",
+        "lofi",
+    ]
+}
