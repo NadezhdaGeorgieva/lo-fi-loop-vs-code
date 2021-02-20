@@ -3,13 +3,13 @@
     "displayName": "Lo-Fi Loop Theme",
     "description": "Relaxing dark theme.",
     "version": "1.0.0",
-    "homepage": "https://github.com/NadezhdaGeorgieva/lo-fi-loop-vs-code#readme",
+    "homepage": "https://github.com/altcoda/lo-fi-loop-vs-code#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NadezhdaGeorgieva/lo-fi-loop-vs-code.git"
+        "url": "https://github.com/altcoda/lo-fi-loop-vs-code.git"
     },
     "bugs": {
-        "url": "https://github.com/NadezhdaGeorgieva/lo-fi-loop-vs-code/issues"
+        "url": "https://github.com/altcoda/lo-fi-loop-vs-code/issues"
     },
     "icon": "icon.png",
     "publisher": "altcoda",
